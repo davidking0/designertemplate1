@@ -1,7 +1,3 @@
-/*-----------------------------------------------------------------------------------
-	    designertemplate1
-        Built with Blocs
------------------------------------------------------------------------------------*/
 
 body{
 	margin:0;
@@ -357,10 +353,10 @@ nav .caret{
 }
 
 /* Nav Special Close Button */.close-special-menu .close-icon{
-	background:#fff;
+	background:#000;
 }
 .blocsapp-special-menu blocsnav{
-	background: #000;
+	background: #F0EDEB;
 }
 
 /* Full Screen Navigation */
@@ -548,6 +544,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-family:"Montserrat";
 	font-weight:100;
 	font-size:50px;
+    color:#000!important;
 }
 .gallery-pic{
 	width:250px;
@@ -755,11 +752,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 @media (max-width: 420px){
 	.xl-text{
 	line-height:68px;
-}
-.gallery-pic{
-	text-align:;
-	display:;
-	float:none;
 }
  }
 
